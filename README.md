@@ -11,7 +11,5 @@ dotnet run CustomerSucessBalancing.dll
 ```
 cd CustomerSucessBalancing.Tests
 
-dotnet test
-
-dotnet test /p:CollectCoverage=true
+dotnet test /p:CollectCoverage=true //with code coverage
 ```
