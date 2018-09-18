@@ -90,7 +90,5 @@ namespace CustomerSucessBalancing.CustomerSucessBalancing
 
             return css;
         }
-
-
     }
 }
